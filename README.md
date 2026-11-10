@@ -11,7 +11,7 @@ Netlify publicó la interfaz estática, pero no ejecuta FastAPI, FFmpeg ni Whisp
 
 ## 2. Conectar la web Netlify existente
 1. Abre `static/config.js`.
-2. Cambia `https://TU-SERVICIO.onrender.com` por la URL real del backend.
+2. Cambia https://clipforge-ji2w.onrender.com por la URL real del backend.
 3. Vuelve a desplegar el contenido de esta carpeta en Netlify (o actualiza el repositorio conectado a Netlify).
 4. Recarga la web. Pega un enlace autorizado, marca la confirmación y pulsa el botón.
 
